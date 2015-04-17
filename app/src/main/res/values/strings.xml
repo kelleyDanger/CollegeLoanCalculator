@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">College Loans</string>
+    <string name="loanAmount">Loan Amount:</string>
+    <string name="rate">Rate: </string>
+    <string name="calculatedMonthlyPremium">Calculated Monthly Premiums</string>
+    <string name="years">Years</string>
+    <string name="monthlyPremium">Monthly Premium</string>
+    <string name="fiveYears">5</string>
+    <string name="tenYears">10</string>
+    <string name="fifteenYears">15</string>
+    <string name="twentyYears">20</string>
+    <string name="twentyFiveYears">25</string>
+    <string name="thirtyYears">30</string>
+
+</resources>
